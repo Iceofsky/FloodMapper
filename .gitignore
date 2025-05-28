@@ -1,0 +1,15 @@
+*.tif
+*.tiff
+*.qgz
+*.gpkg
+*.pyc
+*.csv
+*.pt
+
+
+checkpoints/
+datasets/
+DEM Files/
+results/
+
+Commandline help.md
